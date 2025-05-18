@@ -18,6 +18,7 @@ Para verificar la utilidad del proyecto se tiene que dar "Run" a la class "divus
 
 ![rundivusa](https://github.com/user-attachments/assets/04a762f2-574b-456b-b617-19fbd5082ed3)
 
+
 Tambien se puede apreciar las opciones de tipos de cambio y una aplicacion extra del proyecto
 
 ![runespe](https://github.com/user-attachments/assets/1da571ef-24f3-4e87-a1bd-2f15c3eadfc8)
@@ -28,9 +29,15 @@ la opcion extra es la de salir del proyecto
 
 y asi de facil es usar este exchange
 
+## Contribuyendo 🖇️
+este proyecto fue contribuido por la "api" de 
+![exapi](https://github.com/user-attachments/assets/2238eafe-f0db-4554-8926-b92f5d507314)
 
 
 
+## Autores ✒️
+| [<img src="https://avatars.githubusercontent.com/u/202535606?s=400&u=45d1f7e18f4323d8f872a1081d47a9b26b053583&v=4" width=115><br><sub>Jbryan Guevara</sub>]([https://github.com/jbryan92]) |
+| :---: | 
 
 
 
