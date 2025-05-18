@@ -30,14 +30,15 @@ la opcion extra es la de salir del proyecto
 y asi de facil es usar este exchange
 
 ## Contribuyendo 🖇️
-este proyecto fue contribuido por la "api" de 
+este proyecto fue contribuido por la "api" de  
 ![exapi](https://github.com/user-attachments/assets/2238eafe-f0db-4554-8926-b92f5d507314)
 
 
 
 ## Autores ✒️
-| [<img src="https://avatars.githubusercontent.com/u/202535606?s=400&u=45d1f7e18f4323d8f872a1081d47a9b26b053583&v=4" width=115><br><sub>Jbryan Guevara</sub>]([https://github.com/jbryan92]) |
+| [<img src="https://github.com/user-attachments/assets/a06186be-9579-49f3-8b64-930e41b5b345" width=115><br><sub>Jbryan Guevara</sub>]([https://github.com/jbryan92]) |
 | :---: | 
+
 
 
 
